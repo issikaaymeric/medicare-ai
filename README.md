@@ -39,7 +39,7 @@ MedicareAI/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/MedicareAI.git
+git clone https://github.com/YOUR_USERNAMe/MedicareAI.git
 cd MedicareAI
 ````
 
@@ -48,7 +48,7 @@ cd MedicareAI
 ```bash
 cd backend
 python -m venv myenv
-myenv\Scripts\activate   # Windows
+myenv\Scripts\activate  #If you're using Windows
 
 pip install -r requirements.txt
 ```
@@ -96,7 +96,7 @@ After downloading:
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** React, TailwindCSS (optional styling), React Icons
+* **Frontend:** React, React Icons
 * **Backend:** FastAPI, Uvicorn, Transformers
 * **AI Models:** OpenAI , Hugging Face Transformers (e.g., BERT, DistilBERT)
 * **Deployment Ready:** GitHub + External storage for large files
