@@ -73,7 +73,7 @@ npm start
 
 Since models/datasets are too large for GitHub, download them here:
 
-👉 [Google Drive – Models & Datasets](https://drive.google.com/drive/folders/1eXA3L6qTgTtrXRKRmg9WNt3R2Bmv30mL?usp=drive_link)
+👉 [Google Drive – Models & Datasets](https://drive.google.com/drive/folders/1eXA3L6qTgTtrXRKRmg9WNt3R2Bmv30mL?usp=sharing)
 
 After downloading:
 
