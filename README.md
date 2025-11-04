@@ -66,20 +66,6 @@ cd frontend
 npm install
 npm start
 ```
-
----
-
-## 📥 Download Models & Data
-
-Since models/datasets are too large for GitHub, download them here:
-
-👉 [Google Drive – Models & Datasets](https://drive.google.com/drive/folders/1eXA3L6qTgTtrXRKRmg9WNt3R2Bmv30mL?usp=sharing)
-
-After downloading:
-
-* Extract into `backend/models/` or the appropriate folder.
-* Update paths in `main.py` if needed.
-
 ---
 
 ## 🚀 Usage
